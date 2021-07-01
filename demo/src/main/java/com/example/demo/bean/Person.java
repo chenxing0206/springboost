@@ -1,6 +1,7 @@
 package com.example.demo.bean;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
+import org.springframework.stereotype.Component;
 
 /**
  *  所属项目：
@@ -15,6 +16,7 @@ import org.springframework.boot.context.properties.ConfigurationProperties;
  *  @author:chenxing
  */
 @ConfigurationProperties(prefix = "myperson")
+@Component
 public class Person {
 
     // 随便加个注解
