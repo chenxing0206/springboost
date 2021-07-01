@@ -16,7 +16,7 @@ import org.springframework.stereotype.Component;
  *  @author:chenxing
  */
 @ConfigurationProperties(prefix = "myperson")
-@Component
+//@Component
 public class Person {
 
     // 随便加个注解
