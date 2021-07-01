@@ -17,7 +17,7 @@ import org.springframework.boot.context.properties.ConfigurationProperties;
 @ConfigurationProperties(prefix = "myperson")
 public class Person {
 
-
+    // 随便加个注解
     private String name;
     private int age;
     private int sex;
