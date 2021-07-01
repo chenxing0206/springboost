@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="libraryTable">
+    <library name="Lib">
+      <CLASSES>
+        <root url="file://H:/WorkSpace/DB/1_产品/HWCDP3（大数据平台）/_Debug/Lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+      <jarDirectory url="file://H:/WorkSpace/DB/1_产品/HWCDP3（大数据平台）/_Debug/Lib" recursive="false" />
+    </library>
+    <library name="Other">
+      <CLASSES>
+        <root url="file://H:/WorkSpace/DB/1_产品/HWCDP3（大数据平台）/_Debug/Lib/Other" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://H:/WorkSpace/DB/1_产品/HWCDP3（大数据平台）/_Debug/Lib/Other" />
+      </SOURCES>
+      <jarDirectory url="file://H:/WorkSpace/DB/1_产品/HWCDP3（大数据平台）/_Debug/Lib/Other" recursive="false" />
+      <jarDirectory url="file://H:/WorkSpace/DB/1_产品/HWCDP3（大数据平台）/_Debug/Lib/Other" recursive="false" type="SOURCES" />
+    </library>
+    <library name="Spring">
+      <CLASSES>
+        <root url="file://H:/WorkSpace/DB/1_产品/HWCDP3（大数据平台）/_Debug/Lib/Spring" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+      <jarDirectory url="file://H:/WorkSpace/DB/1_产品/HWCDP3（大数据平台）/_Debug/Lib/Spring" recursive="false" />
+    </library>
+  </component>
+</project>
