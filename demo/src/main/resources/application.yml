@@ -1,0 +1,9 @@
+myperson:
+  name: zhangshan
+  age: 20
+  sex: 1
+spring:
+  resources:
+    static-locations: [classpath:/test/]
+  mvc:
+    static-path-pattern: /hh/**

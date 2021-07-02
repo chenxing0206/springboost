@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 @Controller
 @ResponseBody
 public class HelloWorldController {
-    @RequestMapping("/")
+//    @RequestMapping("/")
     String home(Model model) {
         model.addAttribute("msg","This is a test messgae");
         return "Hello World!";
